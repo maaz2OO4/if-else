@@ -1,0 +1,44 @@
+If COnditions
+-----------------------
+if(condition)
+{
+statement
+}
+else{
+statement
+}
+-------------------------
+if(condition)
+{
+statement
+}
+else if(condition)
+{
+statement
+}
+else{
+statement
+}
+-----------------------------
+if(condition)
+{
+statement
+}
+else if(condition)
+{
+statement
+}
+else if(condition)
+{
+statement
+}
+else if(condition)
+{
+statement
+}
+else{
+statement
+}
+--------------------------------------------------------------------------
+for loop,while loop ,do while loop apply all of them and print table of 2 
+---------------------------------------------------------------------------
